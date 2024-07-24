@@ -1,4 +1,4 @@
 # Meu repositório de auteticações da DIO
 Repositorio de atenticações
-1. autenticação via nome de usuario e senha:
-2. autenticação via token de acesso pessoal.
+1. Autenticação via nome de usuário e senha:
+2. Autenticação via Token de acesso pessoal;
